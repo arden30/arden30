@@ -6,4 +6,4 @@ I'm Arsenev Denis, from SPB, Russia. Right now I'm studying at ITMO university (
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/adagio_sostenuto)](https://t.me/ar_den0)
 
 # LeetCode
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ArDen30&theme=dark)]
+![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ArDen30&theme=dark)
