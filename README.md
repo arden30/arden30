@@ -9,4 +9,4 @@ I'm Arsenev Denis, live and study in St. Petersburg, Russia. Right now I'm study
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ArDen30&theme=dark)
 
 # Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arden30&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Arden30?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arden30&exclude_repo=github-readme-stats,anuraghazra.github.io)]
